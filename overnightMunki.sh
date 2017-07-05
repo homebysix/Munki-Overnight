@@ -28,7 +28,7 @@ if [ "$SystemHour" = "$TurnOnTime" ] ; then
 		fi	
 else
 
-	echo "Its not time to run updates."
+	echo "It's not time to run updates."
 fi
 
 exit 0
